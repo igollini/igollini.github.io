@@ -2,7 +2,9 @@
 ========================================================
 
 Lecturer in Statistics
+
 Department of Economics, Mathematics and Statistics
+
 Birkbeck, University of London
 
 
