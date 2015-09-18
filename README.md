@@ -1,10 +1,9 @@
 [Isabella Gollini](https://sites.google.com/site/isabellagollini/)
 ========================================================
 
-Research Assistant in Bayesian Statistics
-CREDIBLE project
-Department of Civil Engineering
-University of Bristol
+Lecturer in Statistics
+Department of Economics, Mathematics and Statistics
+Birkbeck, University of London
 
 
 Package `lvm4net`
